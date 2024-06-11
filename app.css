@@ -26,7 +26,7 @@
   --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(assets/a_building_with_a_clock_tower_and_lights_on_it.png.jpg); /* Image URL */
+  --imgbg: url(assets/a_building_with_a_clock_tower_and_lights_on_it.png); /* Image URL */
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)

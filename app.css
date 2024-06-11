@@ -120,7 +120,7 @@ body {
 }
 
 .timeBlock {
-  grid-row: 1 / span 2;
+  grid-row: 1 / -1;
   grid-column: 1 / span 2;
   display: flex;
   flex-direction: column;
@@ -182,6 +182,7 @@ body {
 #greetings {
   font-size: var(--fg-secondary);
   color: var(--fg);
+  grid-row: 1 / -1;
 }
 
 .weatherIcon img {

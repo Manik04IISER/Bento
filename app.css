@@ -25,13 +25,6 @@
   --background: #f5f5f5; /* Background color */
   --cards: #e4e6e6; /* Cards color */
 
-  /* Image background  */
-  --imgbg: url(assets/lock-wallpaper.png); /* Image URL */
-  --imgcol: linear-gradient(
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)
-  ); /* Filter color */
-}
 
 .darktheme {
   /* Dark Colors  */
@@ -43,7 +36,8 @@
   --fg: #d8dee9; /* Foreground color */
   --sfg: #2c292e; /* Secondary Foreground color */
 
-  --imgbg: url(assets/a_building_with_a_clock_tower_and_lights_on_it.png); /* Image URL */
+  /* Image background  */
+  --imgbg: url(assets/lock-wallpaper.png); /* Image URL */
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)

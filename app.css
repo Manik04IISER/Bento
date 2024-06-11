@@ -38,10 +38,10 @@
 
   /* Image background  */
   --imgbg: url(assets/lock-wallpaper.png); /* Image URL */
-  --imgcol: linear-gradient(
+/*   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
-  ); /* Filter color */
+  );*/ /* Filter color */ 
 }
 
 /* S T Y L E S */
